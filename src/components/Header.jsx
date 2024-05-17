@@ -24,7 +24,7 @@ function Header(){
                     <FaMoon />
                 </Button>
                 <Link to='/sign-in'>
-                    <Button className='w-25 h-10 hidden sm:flex' color='cyan'>
+                    <Button className='w-25 h-10 hidden sm:flex' authline color='cyan'>
                         Sign In
                     </Button>
                 </Link>
