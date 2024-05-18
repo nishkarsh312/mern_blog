@@ -23,7 +23,7 @@ function Header(){
                 <Button className='w-12 h-10 md:hidden' color='grey'>
                     <FaMoon />
                 </Button>
-                <Link to='/sign-in'>
+                <Link to='/signin'>
                     <Button className='w-25 h-10 hidden sm:flex' authline color='cyan'>
                         Sign In
                     </Button>
